@@ -1,4 +1,6 @@
-﻿# Практическое занятие 1. Рабочее окружение
+﻿[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexxxandra031/ai-course/blob/main/lab1/notebooks/lab1.ipynb)
+
+# Практическое занятие 1. Рабочее окружение
 
 Автор: Прокопенко Александра Алексеевна, группа 251-952
 
@@ -14,3 +16,4 @@
 2. Включить окружение: .venv\Scripts\activate (macOS и Linux: source .venv/bin/activate)
 3. Установить библиотеки: pip install -r requirements.txt
 4. Открыть notebooks/lab1.ipynb в VS Code и выбрать ядро .venv
+
